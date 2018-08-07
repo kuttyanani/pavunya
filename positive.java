@@ -2,7 +2,7 @@ class positive
 {
 public static void main(String args[])
 {
-int number=109;
+int number=3;
 if(number>0)
 {
 system.out.println("positive");
